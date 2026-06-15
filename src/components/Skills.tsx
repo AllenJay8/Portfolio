@@ -37,7 +37,7 @@ const Skills = () => {
           className="text-center mb-16"
         >
           <h2 className="text-4xl md:text-5xl font-bold mb-4">
-            My <span className="text-gradient">Skills</span>
+            Skills <span className="text-gradient"> & Expertise</span>
           </h2>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
             Core technologies and concepts I've been learning and practicing
